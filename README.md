@@ -1,0 +1,1 @@
+A framework to how to set up a training loop to update the weights of a pytorch neural network. In this particular instance the network is optimized for binary classification, and a AUC is shown to evaluate the model performance
